@@ -1,0 +1,140 @@
+
+> nuxt-one@1.0.0 dev /home/suriken/nuxtJS/nuxt-one
+> nuxt
+
+
+ WARN  You are using an unsupported version of Node.js (v10.23.1). It is recommended to use the latest LTS version (https://nodejs.org/en/about/releases)
+
+
+ WARN  Address 0.0.0.0:2014 is already in use.
+
+ℹ Trying a random port...
+ℹ Listening on: http://160.251.49.3:38391/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 16.56s
+✔ Client: Compiled successfully in 22.12s
+ℹ Waiting for file changes
+ℹ Memory usage: 292 MB (RSS: 401 MB)
+ℹ Listening on: http://160.251.49.3:38391/
+No issues found.
+↻ Updated .nuxt/router.js
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Client: Compiled successfully in 7.48s
+✔ Server: Compiled successfully in 7.54s
+No issues found.
+↻ Updated .nuxt/utils.js
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 9.45s
+✔ Client: Compiled successfully in 14.17s
+No issues found.
+↻ Updated nuxt.config.js
+ℹ Listening on: http://160.251.49.3:2015/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 12.88s
+ℹ Compiling Server
+✔ Client: Compiled successfully in 19.96s
+↻ Updated .nuxt/App.js
+ℹ Waiting for file changes
+ℹ Memory usage: 495 MB (RSS: 329 MB)
+ℹ Listening on: http://160.251.49.3:2015/
+No issues found.
+ℹ Compiling Client
+✔ Server: Compiled successfully in 11.00s
+✔ Client: Compiled successfully in 8.50s
+No issues found.
+↻ Updated nuxt.config.js
+ℹ Listening on: http://160.251.49.3:4444/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 12.14s
+✔ Client: Compiled successfully in 17.44s
+ℹ Waiting for file changes
+ℹ Memory usage: 493 MB (RSS: 505 MB)
+ℹ Listening on: http://160.251.49.3:4444/
+No issues found.
+↻ Updated .nuxt/router.js
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 1.27s
+✔ Client: Compiled successfully in 1.95s
+No issues found.
+↻ Updated nuxt.config.js
+ℹ Listening on: http://160.251.49.3:39741/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 10.41s
+✔ Client: Compiled successfully in 19.01s
+ℹ Waiting for file changes
+ℹ Memory usage: 522 MB (RSS: 455 MB)
+ℹ Listening on: http://160.251.49.3:39741/
+No issues found.
+↻ Updated .nuxt/vuetify/options.js
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 2.55s
+✔ Client: Compiled successfully in 2.77s
+No issues found.
+↻ Updated nuxt.config.js
+
+ WARN  Address 160.251.49.3:2014 is already in use.
+
+ℹ Trying a random port...
+ℹ Listening on: http://160.251.49.3:38391/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 11.99s
+✔ Client: Compiled successfully in 18.98s
+ℹ Waiting for file changes
+ℹ Memory usage: 454 MB (RSS: 422 MB)
+ℹ Listening on: http://160.251.49.3:38391/
+No issues found.
+↻ Updated .nuxt/router.js
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 1.86s
+✔ Client: Compiled successfully in 2.73s
+No issues found.
+↻ Updated nuxt.config.js
+ℹ Listening on: http://160.251.49.3:2015/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 33.15s
+✔ Client: Compiled successfully in 40.59s
+ℹ Waiting for file changes
+ℹ Memory usage: 298 MB (RSS: 340 MB)
+ℹ Listening on: http://160.251.49.3:2015/
+No issues found.
